@@ -1,0 +1,23 @@
+.tagline {
+    color: blueviolet;
+    font-style: italic;
+}
+
+img {
+    float: right;
+}
+
+.price-topic {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+table {
+    width: 100%;
+    border: 1px solid black;    
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
