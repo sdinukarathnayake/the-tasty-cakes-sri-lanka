@@ -24,15 +24,6 @@ The Tasty Cakes Sri Lanka site is a deliverable for the University of Moratuwa�
 - **CSS3**: Flexbox and Grid layouts, media queries for responsiveness.
 - **JavaScript (optional)**: Smooth scrolling, form validation, and interactive behaviors.
 
-## Project Structure
-
-project-root/
-├── index.html           <!-- Main homepage -->
-├── css/
-│   └── styles.css       <!-- Styles for all pages -->
-├── images/              <!-- Static assets (photos, icons) -->
-└── README.md            <!-- Project documentation -->
-
 ## Tasks
 
 1. Set up the project directory according to the structure above.
