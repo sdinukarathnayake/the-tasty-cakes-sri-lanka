@@ -2,3 +2,7 @@
     color: blueviolet;
     font-style: italic;
 }
+
+img {
+    float: right;
+}
