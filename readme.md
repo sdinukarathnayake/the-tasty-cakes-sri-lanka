@@ -4,6 +4,8 @@
 
 The Tasty Cakes Sri Lanka site is a deliverable for the University of Moratuwa’s Open Online Course “Web Development – 1: Web Design for Beginners.” Its purpose is to create a responsive, accessible website that highlights Mr. Sarath’s cake offerings and facilitates customer inquiries.
 
+![Screenshot (1986)](https://github.com/user-attachments/assets/c46ad94a-4c37-4d2c-8e61-f279ce9d701a)
+
 ## Objectives
 
 - Translate the provided UI mockup into semantic, standards-compliant HTML.
